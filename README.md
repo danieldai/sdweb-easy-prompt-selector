@@ -1,5 +1,11 @@
 # Easy Prompt Selector
 
+自用汉化版
+
+汉化提示词来自 https://github.com/tudoujunha/sdweb-easy-prompt-selector-zh_cn?tab=readme-ov-file
+
+
+
 [使い方(暫定)](https://blue-pen5805.fanbox.cc/posts/5306601)
 
 ## English Readme
